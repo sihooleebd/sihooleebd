@@ -1,4 +1,4 @@
-# 💫 Reinventing the Web since 2020:
+# 💫 Reinventing the Web since 2020
 Developer @ South Korea<br>Currently majoring Computer Privacy & Science @ Korea Science Academy of KAIST> <br>Founder of Logicae. <br>
 
 
