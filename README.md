@@ -1,5 +1,6 @@
-# ───  Hi, I'm Benjamin.  ───
+# >  Hi, I'm Benjamin.  <
 
+(╯°□°)╯︵ ┻━┻
 > *Curating clarity through code and typesetting.*
 
 I’m a developer focused on building tools that make information more accessible and beautiful. Most of my current energy is directed toward the **Typst** ecosystem, where I’m crafting modules to bridge the gap between complex math and elegant documentation.
@@ -10,9 +11,9 @@ I’m a developer focused on building tools that make information more accessibl
 - **Open Source**: Contributing to the Typst community and refining adaptive rendering techniques.
 
 ### ✦ Tools of the Trade
-- **Languages**: Typst, JavaScript, Python
-- **Focus Areas**: Technical Typesetting, UI/UX Design, Logic Systems
-- **Workflow**: Neovim, Git, and a lot of coffee.
+- **Languages**: Typst, JavaScript, Python, C++
+- **Focus Areas**: Technical Typesetting, UI/UX Design, Logic Systems, Competitive Programming
+- **Workflow**: Neovim, Git, and a lot of coffee(like a lot of it.).
 
 ---
 
@@ -25,8 +26,8 @@ I’m a developer focused on building tools that make information more accessibl
 ---
 
 ### ✦ Find Me Around
-- 💬 Ask me about **Typst** or adaptive rendering.
-- 🌱 Currently learning more about advanced graphics and system architecture.
-- ✉️ Reach out via GitHub Issues or [Website](https://www.benjaminlee.kr).
+- Ask me about **Typst** or adaptive rendering.
+- Currently learning more about advanced graphics and system architecture.
+- Reach out via GitHub Issues, [Email](mailto:business@benjaminlee.kr) or [Website](https://www.benjaminlee.kr).
 
 *“Simplicity is the soul of efficiency.”*
