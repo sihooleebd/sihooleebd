@@ -22,7 +22,8 @@ I’m a developer focused on building tools that make information more accessibl
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[Noteworthy](https://github.com/sihooleebd/noteworthy)** | A modular framework for Typst templates and components. | Active |
-| **[Emergence](https://github.com/sihooleebd/emergence)** | A deep dive into JavaScript-based logic and system design. | Refactoring |
+| **[TypCAS](https://github.com/sihooleebd/typCAS)** | The powers of CAS brought to the world of typesetting. | v0.2.1 |
+| **[Logicae](https://www.logicae.kr)** | The global thinktank of gifted students. | Email me for author |
 
 ---
 
