@@ -25,5 +25,3 @@ I’m a dev focused on building tools that make information more accessible and 
 ### ✦ Find Me Around
 - Currently studying and researching computer science @ [KSA of KAIST](https://ksa.hs.kr/).
 - Reach out via GitHub Issues, [Email](mailto:business@benjaminlee.kr) or [Website](https://www.benjaminlee.kr).
-
-*“Simplicity is the soul of efficiency.”*
