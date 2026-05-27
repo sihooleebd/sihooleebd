@@ -1,5 +1,5 @@
 #  Hi, I'm Benjamin. 
-```I probably drank to much coffee yesterday.```
+```I probably drank too much coffee yesterday.```
 
 (╯°□°)╯︵ ┻━┻
 > *Curating clarity through code and typesetting.*
